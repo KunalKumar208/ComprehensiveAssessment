@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComprehensiveAssesmentBddSpecflow", "ComprehensiveAssesmentBddSpecflow\ComprehensiveAssesmentBddSpecflow.csproj", "{A191E8DF-7088-4BB0-B960-57BB953A44CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A191E8DF-7088-4BB0-B960-57BB953A44CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A191E8DF-7088-4BB0-B960-57BB953A44CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A191E8DF-7088-4BB0-B960-57BB953A44CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A191E8DF-7088-4BB0-B960-57BB953A44CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC056AE7-6E57-44B1-A3BC-B18BA1B8BC1E}
+	EndGlobalSection
+EndGlobal
